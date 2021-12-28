@@ -1,0 +1,31 @@
+{
+  "name": "server-mecprog-email",
+  "version": "1.0.0",
+  "description": "email handler do mecprog",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6",
+    "nodemailer": "^6.7.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Minerororu/Server-Mecprog-Email.git"
+  },
+  "keywords": [
+    "mecprog",
+    "server"
+  ],
+  "author": "Minerororu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Minerororu/Server-Mecprog-Email/issues"
+  },
+  "homepage": "https://github.com/Minerororu/Server-Mecprog-Email#readme"
+}
