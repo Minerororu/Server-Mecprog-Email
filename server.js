@@ -47,7 +47,7 @@ function mandarEmail(assunto, destinatario, corpo){
       service: 'gmail',
       auth: {
         user: 'mecprogadm@gmail.com',
-        pass: 'mecprog123'
+        pass: 'oygzheeeeoaihuut'
       }
      })
      let email = {
